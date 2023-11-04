@@ -15,9 +15,7 @@ Soy Vicente Pinochet, un apasionado de la tecnología y la innovación, originar
 
 ## Tecnologías:
 
-- Azure
 - PyTorch
-- Figma
 - AWS (Amazon Web Services)
 - Jupyter Notebook
 - Arduino
