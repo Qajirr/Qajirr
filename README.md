@@ -1,27 +1,28 @@
-# Qajirr
- 
-# Hola 👋
+Soy Vicente Pinochet, un apasionado de la tecnología y la innovación, originario de Santa Cruz y actualmente residenciado en Santiago. Estoy enfocado en áreas como la inteligencia artificial y la ciencia de datos.
 
-¡Hola! Mi nombre es [Tu Nombre]. Soy de [tu ciudad] y actualmente vivo en [tu ubicación actual]. Tengo un gran interés en la innovación, la educación y la inteligencia artificial.
+## Acerca de mí:
 
-## Algunas cosas sobre mí:
+- Actualmente estudio en la Universidad de Chile en Ingenieria Civil Electrica.
+- Siempre estoy aprendiendo y explorando nuevos horizontes, especialmente en el campo de la ciencia de datos y la inteligencia artificial.
+- Disfruto resolviendo desafíos técnicos y colaborando en proyectos emocionantes.
 
-- 🔭 Actualmente trabajo en [Tu Empresa o Universidad] como [Tu Puesto]
-- 🌱 Estoy aprendiendo constantemente, especialmente en el campo de [Tus áreas de interés]
-- 🥰 Disfruto aprendiendo cosas nuevas y pasando tiempo con mis seres queridos
-- 🎶 Me gusta tocar la guitarra y el ukulele
-- 📒 Soy voluntario en [nombre de la organización educativa en la que participas]
+## Lenguajes de Programación:
 
-## Lenguajes de programación:
-
-- Python
+- Python (incluyendo bibliotecas como NumPy, pandas, scikit-learn, TensorFlow y Keras)
 - SQL
-- R
+- Power BI
+- MATLAB
 
 ## Tecnologías:
 
 - Azure
 - PyTorch
 - Figma
-
-¡No dudes en contactarme si deseas colaborar en proyectos interesantes o simplemente charlar sobre nuestras pasiones!
+- AWS (Amazon Web Services)
+- Jupyter Notebook
+- Arduino
+- JSON
+- ROS (Robot Operating System)
+- Fusion 360
+- Ultimaker Cura
+- OpenCV
