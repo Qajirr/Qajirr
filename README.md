@@ -10,77 +10,67 @@
 
 ### ¡Hola! 👋 Soy Vicente.
 
-Soy Ingeniero Civil Eléctrico de la Universidad de Chile, actualmente cursando un Magíster en Ciencia de Datos en la misma institución. Me especializo en el diseño e implementación de modelos de machine learning y arquitecturas de datos robustas y escalables para resolver desafíos complejos en la industria. Mi enfoque principal es la aplicación de inteligencia artificial, minería de datos y visualización interactiva para la optimización de procesos y la toma de decisiones basada en datos.
+Ingeniero Civil Eléctrico con Magíster en Ciencia de Datos de la **Universidad de Chile**, especializado en el desarrollo de modelos matemáticos, estadísticos y sistemas autónomos (Machine Learning) para mejorar la toma de decisiones.
 
-Busco aplicar mis conocimientos en contextos innovadores, con un fuerte énfasis en la transparencia de modelos, la gobernanza de datos y la gestión eficiente de grandes volúmenes de información.
+Experiencia comprobada transformando vastos volúmenes de datos en activos de información de alto valor empresarial mediante **Python**, **R**, **SQL** y computación distribuida (**PySpark**). Acostumbrado a trabajar con autonomía, proactividad y enfoque en objetivos dentro de ecosistemas Cloud (**GCP**, **AWS**).
 
 ---
 
-### 🚀 Proyectos Destacados y Experiencia Clave
+### 🚀 Experiencia Profesional & Proyectos Clave
 
--   **Arquitecto de Datos & ML (Proyecto Actual - Monitoreo de Flotas Electromóviles):**
-    Diseño e implementación de una arquitectura de datos para el acondicionamiento y procesamiento de telemetría en tiempo real de maquinaria minera.
-    * **Tecnologías:** Apache Kafka para ingesta de flujos de eventos, TimescaleDB para almacenamiento dual (tiempo real e histórico masivo con compresión >**89%**), Apache Airflow para orquestación de ETLs y reentrenamiento adaptativo de modelos, MLflow para seguimiento de experimentos y versionado de modelos, y Docker para contenerización de servicios.
-    * **Impacto:** Creación de un pipeline modular orientado a microservicios para el monitoreo confiable y pronósticos precisos (SoC, SOH, SoMPA) del estado de la flota.
+- **Data Scientist & Research Specialist** | **AMTC - Codelco** *(Noviembre 2024 – Actualidad)*
+  - Construcción y entrenamiento de modelos estadísticos y predictivos sobre vastos volúmenes de telemetría industrial, reduciendo la incertidumbre analítica en un **31.2%**.
+  - Desarrollo de sistemas autónomos de clasificación de datos y análisis de patrones en tiempo real utilizando Python y PySpark.
+  - Diseño e implementación de pipelines modulares (Kafka, TimescaleDB, Airflow, MLflow, Docker) para monitoreo de flotas y pronósticos de estado en minería.
+  - Generación de informes automatizados e interpretación de resultados de analítica avanzada para equipos técnicos.
 
--   **Co-Fundador & Data Scientist en Start-Up WaaT:**
-    * Desarrollo de soluciones de análisis de datos para el sector energético, incluyendo scraping y procesamiento de más de **150,000** facturas eléctricas.
-    * Creación de dashboards interactivos (Plotly/Dash) y modelos de predicción de costos energéticos.
-    * Gestión y optimización de bases de datos con millones de registros.
+- **Data Scientist** | **AC3E - ICV** *(Enero 2026 – Actualidad)*
+  - Diseño de arquitecturas de datos y métodos estadísticos para predicción y detección de anomalías en series temporales masivas utilizando GCP y Python.
+  - Entrenamiento de algoritmos de Machine Learning y scripts SQL para saneamiento y evaluación de datos, logrando clasificaciones de alta precisión con drástica reducción de falsos positivos.
+  - Implementación de soluciones analíticas autónomas desplegadas mediante contenedores Docker y FastAPI para escalabilidad en operación.
 
--   **Data Scientist en Proyecto ObraLink (Universidad de Chile):** 
-    * Estimación de volúmenes de concreto mediante modelos de machine learning, series temporales y modelado bayesiano.
-    * Optimización de modelos con regularización y validación basada en teoría de la información (AIC/BIC).
-    * Implementación de soluciones explicables y escalables en ingeniería civil.
+- **Lead Data Scientist** | **Start-Up WaaT** *(Enero 2024 – Marzo 2025)*
+  - Liderazgo en analítica y extracción de información estratégica sobre más de **150.000** registros estructurados y no estructurados orientados a métricas de negocio.
+  - Diseño y presentación de hallazgos a la directiva mediante visualización avanzada e interfaces interactivas (Plotly/Dash).
+  - Optimización de consultas en PostgreSQL y aplicación de analítica avanzada para mejora continua en procesos transaccionales.
 
--   **Automatización de Procesos en QuePlan Spa:** 
-    * Reducción de tiempos críticos en procesos internos mediante scripts en Python y optimización de flujos operacionales a través del análisis masivo de datos.
+- **Data Analyst Intern** | **QuePlan.cl** *(Diciembre 2023 – Abril 2024)*
+  - Evaluación y reconciliación de datos con Python y SQL avanzado, mitigando discrepancias en flujos clave del negocio corporativo.
+  - Detección de patrones de comportamiento sobre almacenes de gran volumen para acelerar la generación de reportes estratégicos.
+
+- **IoT Data Analyst** | **Clickie** *(Octubre 2022 – Enero 2023)*
+  - Análisis de eventos de telemetría provenientes de redes distribuidas en la nube (AWS), optimizando la precisión de sistemas autónomos.
+
+- **Investigación & Desarrollo (ObraLink - FCFM Universidad de Chile):**
+  - Estimación de volúmenes de concreto mediante machine learning, series temporales y modelado Bayesiano con regularización y validación estadística rigurosa (AIC/BIC).
 
 ---
 
 ### 🛠️ Habilidades Técnicas
 
-Mi conjunto de habilidades abarca:
-
-**1. Ciencia de Datos & Machine Learning:**
-    * **Modelado Predictivo:** Series Temporales, Regresión, Clasificación, Clustering.
-    * **Machine Learning Avanzado:** LightGBM, XGBoost, Redes Neuronales (CNN, LSTM).
-    * **Estadística e Inferencia:** Modelos Bayesianos, Inferencia Causal, Evaluación (AIC/BIC), Técnicas Bootstrap.
-    * **MLOps & IA Responsable:** Optimización de Hiperparámetros, Regularización, Transparencia de Modelos (XAI), Mitigación de Sesgos, Gobernanza de Datos, MLflow.
-    * **Lenguajes y Bibliotecas:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch), R.
-
-**2. Ingeniería de Datos & Big Data:**
-    * **Arquitectura de Datos:** Diseño de Pipelines de Datos, ETLs, Data Warehousing.
-    * **Bases de Datos:** SQL Avanzado (PostgreSQL/TimescaleDB), NoSQL (MongoDB, Redis).
-    * **Procesamiento Distribuido y Streaming:** Apache Kafka.
-    * **Orquestación de Flujos:** Apache Airflow.
-    * **Contenerización y Despliegue:** Docker.
-    * **Cloud:** Experiencia con AWS (análisis de rendimiento).
-
-**3. Programación, Visualización y Herramientas:**
-    * **Lenguajes Adicionales:** HTML, Markdown, LaTeX.
-    * **Visualización:** Plotly, Dash, Geodatos con Folium, R (ggplot2).
-    * **Herramientas de Desarrollo:** Git, GitHub, VSCode, Jupyter Notebooks/Lab, Linux, Anaconda.
-    * **Otras:** Arduino.
+- **Data Science, IA & Machine Learning:** Python (Avanzado), R, Scikit-Learn, Modelos Predictivos, Sistemas Autónomos, Clasificación de Datos, Series Temporales, Modelado Bayesiano, MLflow.
+- **Bases de Datos, Big Data & Cloud:** SQL, PySpark, Google Cloud Platform (BigQuery), AWS (SageMaker), Apache Kafka, PostgreSQL, TimescaleDB.
+- **Visualización & Reportabilidad:** Plotly/Dash, Generación automatizada de reportes, Data Storytelling.
+- **MLOps & DevOps:** Apache Airflow, Docker, FastAPI, CI/CD, Git/GitHub.
+- **Habilidades Blandas e Idiomas:** Autonomía, Proactividad, Trabajo orientado a objetivos, Trabajo en equipo | Inglés / Español Nativo.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,bash,sql,docker,aws,linux,git,github"/>
+    <img src="https://skillicons.dev/icons?i=python,r,bash,sql,postgres,docker,gcp,aws,fastapi"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka,airflow,pytorch,tensorflow,keras,sklearn,plotly,dash,postgres,mongodb,redis,html,css,md,latex,vscode,jupyter,anaconda"/>
+    <img src="https://skillicons.dev/icons?i=kafka,airflow,sklearn,pytorch,plotly,git,github,linux,vscode"/>
   </a>
 </p>
 
 ---
 
-### 🌱 Actualmente Aprendiendo y Explorando
+### 🎓 Educación
 
-Siempre estoy profundizando en:
--   Arquitecturas de microservicios y MLOps avanzado.
--   Técnicas de optimización y escalabilidad para sistemas de IA en producción.
--   Nuevas fronteras en el modelado causal y la IA explicable.
+- **Magíster en Ciencia de Datos** | Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas (FCFM) *(Marzo 2025 – Marzo 2026)*
+- **Ingeniería Civil Eléctrica, Mención Inteligencia Computacional** | Universidad de Chile, Facultad de Ciencias Físicas y Matemáticas (FCFM) *(Marzo 2018 – Marzo 2026)*
 
 ---
-*Este README se actualiza periódicamente. ¡Gracias por tu visita!*
+
+*Este README se actualiza periódicamente.*
